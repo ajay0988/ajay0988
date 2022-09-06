@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
-<h3 align="center">A passionate Cloud-DevOps ,Backend developer from India</h3>
+<h3 align="center">A passionate Cloud-DevOps from India</h3>
 
 - 🔭 I’m currently working on [Memories App](https://github.com/ajay0988/Memories_app.git)
 
