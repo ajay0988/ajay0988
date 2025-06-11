@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
-<h3 align="center">A passionate Cloud-DevOps from India</h3>
+<h3 align="center">A passionate advocate of open-source software and cloud-native technologies from India</h3>
 
-- 🔭 I’m currently working on [Memories App](https://github.com/ajay0988/Memories_app.git)
+- 🔭 I’m currently working as DevOps Enginner in Devtron 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **AI in DevOps(LLM/LCP)**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ajay-kumar-yadav-87182b17b/detail/recent-activity/posts/](https://www.linkedin.com/in/ajay-kumar-yadav-87182b17b/detail/recent-activity/posts/)
 
-- 💬 Ask me about **AWS, DevOps Tools , Node.js**
+- 💬 Ask me about **Istio,AWS, DevOps,GCP,Azure,K8s,ArgoCD**
 
 - 📫 How to reach me **131ajay0@gmail.com**
 
