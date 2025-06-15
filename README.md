@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ajay-kumar-yadav-87182b17b/detail/recent-activity/posts/](https://www.linkedin.com/in/ajay-kumar-yadav-87182b17b/detail/recent-activity/posts/)
 
-- 💬 Ask me about **Istio,AWS, DevOps,GCP,Azure,K8s,ArgoCD**
+- 💬 Ask me about **K8s,Istio,ArgoCD,AWS,GCP,Azure**
 
 - 📫 How to reach me **131ajay0@gmail.com**
 
