@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI in DevOps(LLM/LCP)**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ajay-kumar-yadav-87182b17b/detail/recent-activity/posts/](https://www.linkedin.com/in/ajay-kumar-yadav-87182b17b/detail/recent-activity/posts/)
+- 👨‍💻 All of my projects/blogs are available at [Blogs](https://devtron.ai/blog/author/ajay/),[linkedin Blogs](https://www.linkedin.com/in/ajay-kumar-yadav-87182b17b/detail/recent-activity/posts/)
 
 - 💬 Ask me about **K8s,Istio,ArgoCD,AWS,GCP,Azure**
 
