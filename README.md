@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as DevOps Enginner in Devtron 
 
-- 🌱 I’m currently learning **AI in DevOps(LLM/LCP)**
+- 🌱 I’m currently learning **AI in DevOps(LLM/LCM)**
 
 - 👨‍💻 All of my projects/blogs are available at [Blogs](https://devtron.ai/blog/author/ajay/),[linkedin Blogs](https://www.linkedin.com/in/ajay-kumar-yadav-87182b17b/detail/recent-activity/posts/)
 
